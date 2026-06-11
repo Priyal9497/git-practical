@@ -1,2 +1,2 @@
 My first file in the git folder
-
+i will add my file to remote repo and will chk in local repo
